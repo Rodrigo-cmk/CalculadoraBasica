@@ -25,7 +25,7 @@ com uma interface agradável e intuitiva.
 
 ## _Download_
 
-Baixe o arquivo abaixo, e descompacte na página desejada:
+Baixe o arquivo abaixo, e descompacte na pasta desejada:
 
 🗃 [Download Calculadora Básica .Zip](dist/CalculadoraBásica.zip) 
 
@@ -44,7 +44,7 @@ Ou, se for no Windows, dê um duplo-clique no ícone do programa normalmente.
 
 --> [Profº Ermogenes Palácio](https://github.com/ermogenes) & [Profº Diego Neri](https://github.com/diegoneri)
 
---> Turma 1|3 de Técnico em Informática do primeiro semestre de 2021.
+--> Turma 1 de 3 de Técnico em Informática do primeiro semestre de 2021.
 
 
 ---
