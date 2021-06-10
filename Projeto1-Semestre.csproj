@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon>CalculadoraBásica.ico</ApplicationIcon>
+    <RootNamespace>Projeto1_Semestre</RootNamespace>
+  </PropertyGroup>
+
+</Project>
