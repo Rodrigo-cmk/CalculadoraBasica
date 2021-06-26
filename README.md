@@ -27,7 +27,7 @@ com uma interface agradável e intuitiva.
 
 Baixe o arquivo abaixo, e descompacte na pasta desejada:
 
-🗃 [Download Calculadora Básica .Zip](dist/CalculadoraBásica.zip.zip) 
+🗃 [Download Calculadora Básica .Zip](https://github.com/Rodrigo-cmk/CalculadoraBasica/raw/main/dist/CalculadoraB%C3%A1sica.zip.zip) 
 
 Caso não seja Windows execute utilizando o comando:
 
